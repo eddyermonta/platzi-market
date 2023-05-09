@@ -1,10 +1,5 @@
 package com.platzi.market.domain;
 
-import com.platzi.market.persistence.entity.Compra;
-import com.platzi.market.persistence.entity.ComprasProductoPK;
-import com.platzi.market.persistence.entity.Producto;
-
-
 public class PurchaseItem {
     private int productId;
     private int quantity;
